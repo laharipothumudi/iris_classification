@@ -16,6 +16,7 @@ This project's significance lies in its potential to streamline and automate the
 
 
 # iris_classification
+![Image](https://github.com/user-attachments/assets/7bda884c-49f0-4f7d-a695-ca4733787a4a)
 This Project is thorugh application of machine learning with python programming. It focuses on IRIS flower classification using Machine Learning with scikit tools. Here some of algorithm are used that are some types of machine learning subparts algorithms of supervised and Unsupervised learning. Algorithm used for predicting and get accuracy are -
 
 1.Decision tree classifier
