@@ -18,21 +18,21 @@ train_test_split We are making accuracy and prediction in Iris project through I
 
 Features:
 
-.Sepal Length (cm)
+Sepal Length (cm)
 
-.Sepal Width (cm)
+Sepal Width (cm)
 
-.Petal Length (cm)
+Petal Length (cm)
 
-.Petal Width (cm)
+Petal Width (cm)
 
 Target Labels:
 
-.0 = Setosa
+0 = Setosa
 
-.1 = Versicolor
+1 = Versicolor
 
-.2 = Virginica
+2 = Virginica
 
 # Technologies Used
 Python 3.x
