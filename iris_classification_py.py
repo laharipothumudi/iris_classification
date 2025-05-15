@@ -28,7 +28,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": null,
+      "execution_count": NONE,
       "metadata": {
         "id": "PP_v4urtE3hJ"
       },
@@ -57,7 +57,7 @@
         "id": "rvt_nIxNF6Mp",
         "outputId": "e1695093-5803-4839-fd86-3d75b1d325c6"
       },
-      "execution_count": null,
+      "execution_count": NONE,
       "outputs": [
         {
           "output_type": "stream",
@@ -93,7 +93,7 @@
         "id": "B4xqxCWkF6QF",
         "outputId": "7f0ba2e6-afc4-466c-9cfc-f081bfa9a5fa"
       },
-      "execution_count": null,
+      "execution_count": NONE,
       "outputs": [
         {
           "output_type": "stream",
